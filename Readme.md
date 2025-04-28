@@ -25,7 +25,7 @@ A modern, production-ready starter template for building full-stack web applicat
 ## Getting Started
 
 ### Prerequisites
-- Go 1.22 or later
+- Go 1.23.5 or later
 - Node.js 18 or later
 - PostgreSQL 15 or later
 - Docker (optional)
